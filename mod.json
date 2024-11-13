@@ -1,8 +1,10 @@
 {
-  "name": "0ad",
+  "name": "Economy Mod",
   "version": "0.0.1",
   "label": "0 A.D. Economy Simulation Mod",
-  "url": "play0ad.com",
+  "url": "https://github.com/Pungolo",
   "description": "A free, open-source, historical RTS game.",
-  "dependencies": []
+    "dependencies": [
+      "0ad=0.0.26"
+  ]
 }
